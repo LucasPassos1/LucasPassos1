@@ -4,9 +4,8 @@
   <samp>
     <b>
       プログラマー
-      Hi, my name is Lucas
       <br>
-      !
+      Hi, my name is Lucas!
       <br>
 </div>
 <div align="center">
